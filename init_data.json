@@ -1,0 +1,58 @@
+{
+    "calibrationlocation": {
+        "py/tuple": [
+            1,
+            2,
+            3
+        ]
+    },
+    "slot1": {
+        "py/tuple": [
+            0,
+            0,
+            0
+        ]
+    },
+    "slot2": {
+        "py/tuple": [
+            137,
+            0,
+            0
+        ]
+    },
+    "slot3": {
+        "py/tuple": [
+            0,
+            86,
+            0
+        ]
+    },
+    "slot4": {
+        "py/tuple": [
+            137,
+            86,
+            0
+        ]
+    },
+    "slot5": {
+        "py/tuple": [
+            0,
+            172,
+            0
+        ]
+    },
+    "slot6": {
+        "py/tuple": [
+            136,
+            172,
+            0
+        ]
+    },
+    "home": {
+        "py/tuple": [
+            0,
+            0,
+            0
+        ]
+    }
+}
